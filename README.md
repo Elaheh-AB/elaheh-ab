@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 🔭 About Me:
-I have recently completed a full stack web development diploma with an emphasis on modern web design using  JavaScript.<br>The following technologies were covered:<br>HTML, CSS, JavaScript, React, Git, Github, Node.js, Express, MongoDB
+I have recently completed a full stack web development diploma with an emphasis on modern web design using  JavaScript.<br>The following technologies were covered:<br>HTML, CSS, JavaScript, React.js, Git, Node.js, Express.js, MongoDB
 
 
 ## 🌐 Socials:
