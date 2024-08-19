@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # 🔭 About Me:
-I have recently completed a full stack web development diploma with an emphasis on modern web design using  JavaScript.<br>The following technologies were covered:<br>HTML, CSS, JavaScript, React.js, Git, Node.js, Express.js, MongoDB
+Passionate junior full-stack web developer, skilled in JavaScript, React, and Node.js, with a UX design background. I focus on building functional, user-friendly applications that provide a seamless experience. Constantly learning and embracing new challenges, I aim to contribute to innovative projects that push the boundaries of web development.
 
+Let's Connect!
+Check out my projects here and feel free to connect with me on LinkedIn or through my portfolio website. Let's build something incredible together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elaheh-ahmadi-bidakhavidi/) 
